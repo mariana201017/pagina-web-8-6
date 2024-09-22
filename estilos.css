@@ -1,0 +1,52 @@
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(19, 18, 19);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url(fondo.webp)
+}
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img1{
+    height: 300px;
+    width:  300px;
+    background-image: url(fases-ciclo-menstrual-1536x653.png.webp);
+    float: left;
+}
+.img2{
+    height: 300px; ;
+    width: 300px;
+    background-image:url(Diagrama-n-mas-l-de-configiracion-electronica_triplenlace.com_jkubvf65.webp) ;
+    float: left;
+}
+.img3{
+    height: 300px;
+    width: 300px;
+    background-image: url(circuito\ electrico.jpg);
+}
+.img4{
+    height: 300px;
+    width: 300px;
+    background-image: url(Trastornos\ alimentaria.jfif)
+}
+.img5{
+    height: 300px;
+    width: 300px;
+    background-image: url(Bulimia.jfif)
+}
+.img6{
+    height: 300px;
+    width: 300px;
+    background-image: url(Anorexia.jfif)
+}
